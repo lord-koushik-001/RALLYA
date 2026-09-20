@@ -1,0 +1,637 @@
+[
+  {
+    "id": "evt-1",
+    "title": "Red Bull Alpine Rush",
+    "category": "Sports",
+    "region": "Alps",
+    "city": "Chamonix",
+    "venue": "Chamonix valley",
+    "location": "Chamonix, France",
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "time": "09:00",
+    "price": "Free",
+    "featured": true,
+    "kind": "snow",
+    "description": "A high-energy alpine weekend with snowboarding, freestyle showcases and mountain culture.",
+    "highlights": [
+      "Freestyle showcase runs",
+      "Mountain culture talks and demos",
+      "Free spectator access"
+    ],
+    "image": "https://images.unsplash.com/photo-1551524559-8af4e6624178?auto=format&fit=crop&w=1400&q=85",
+    "tags": [
+      "Snowboarding",
+      "Alpine",
+      "Outdoor",
+      "Red Bull"
+    ],
+    "lat": 45.9237,
+    "lng": 6.8694
+  },
+  {
+    "id": "evt-2",
+    "title": "Tomorrowland Winter Sessions",
+    "category": "DJ & Music",
+    "region": "Alps",
+    "city": "Alpe d'Huez",
+    "venue": "Village stage",
+    "location": "Alpe d'Huez, France",
+    "date": "2027-03-20",
+    "end": "2027-03-21",
+    "time": "18:30",
+    "price": "From €89",
+    "featured": true,
+    "kind": "dj",
+    "description": "Electronic music, alpine views and late-night sets in the French mountains.",
+    "highlights": [
+      "Two nights of electronic sets",
+      "Mountain-view outdoor stage",
+      "Late-night finish"
+    ],
+    "image": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1400&q=85",
+    "tags": [
+      "DJ",
+      "Electronic",
+      "Nightlife"
+    ],
+    "lat": 45.0921,
+    "lng": 6.0706
+  },
+  {
+    "id": "evt-3",
+    "title": "Paris Street Culture Week",
+    "category": "Culture",
+    "region": "Paris",
+    "city": "Paris",
+    "venue": "Across the city",
+    "location": "Paris, France",
+    "date": "2026-10-17",
+    "end": "2026-10-23",
+    "time": "11:00",
+    "price": "From €15",
+    "featured": false,
+    "kind": "culture",
+    "description": "A city-wide celebration of street art, fashion, dance and creative communities.",
+    "highlights": [
+      "Street art routes",
+      "Dance battles and open studios",
+      "Pop-up fashion markets"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1400&q=85",
+    "tags": [
+      "Art",
+      "Dance",
+      "City"
+    ],
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "evt-4",
+    "title": "Lyon Night Run",
+    "category": "Sports",
+    "region": "Lyon",
+    "city": "Lyon",
+    "venue": "City centre course",
+    "location": "Lyon, France",
+    "date": "2026-11-08",
+    "end": "2026-11-08",
+    "time": "20:00",
+    "endTime": "23:30",
+    "price": "From €25",
+    "featured": false,
+    "kind": "city",
+    "description": "A neon-lit running event through the streets of Lyon with music and community checkpoints.",
+    "highlights": [
+      "Neon-lit night course",
+      "Music at every checkpoint",
+      "Finish-line party"
+    ],
+    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=1400&q=85",
+    "tags": [
+      "Running",
+      "Night",
+      "Fitness"
+    ],
+    "lat": 45.764,
+    "lng": 4.8357
+  },
+  {
+    "id": "evt-5",
+    "title": "French Riviera Escape",
+    "category": "Travel",
+    "region": "Riviera",
+    "city": "Nice",
+    "venue": "Côte d'Azur",
+    "location": "Nice, France",
+    "date": "2026-09-28",
+    "end": "2026-10-02",
+    "time": "10:00",
+    "price": "From €120",
+    "featured": true,
+    "kind": "sea",
+    "description": "A curated coastal escape featuring hidden beaches, local food and scenic day trips.",
+    "highlights": [
+      "Hidden beach days",
+      "Local food tours",
+      "Scenic coastal day trips"
+    ],
+    "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1400&q=85",
+    "tags": [
+      "Coast",
+      "Food",
+      "Adventure"
+    ],
+    "lat": 43.7102,
+    "lng": 7.262
+  },
+  {
+    "id": "evt-6",
+    "title": "Mont Blanc Adventure Camp",
+    "category": "Adventure",
+    "region": "Alps",
+    "city": "Les Houches",
+    "venue": "Mont Blanc massif",
+    "location": "Les Houches, France",
+    "date": "2027-01-24",
+    "end": "2027-01-30",
+    "time": "08:00",
+    "dur": "7 days",
+    "price": "From €199",
+    "featured": false,
+    "kind": "adventure",
+    "description": "A guided mountain adventure with winter skills, scenic trails and alpine workshops.",
+    "highlights": [
+      "Certified mountain guides",
+      "Winter skills workshops",
+      "Scenic trail days"
+    ],
+    "image": "https://images.unsplash.com/photo-1486911278844-a81c5267e227?auto=format&fit=crop&w=1400&q=85",
+    "tags": [
+      "Mountains",
+      "Camp",
+      "Winter"
+    ],
+    "lat": 45.8905,
+    "lng": 6.7987
+  },
+  {
+    "id": "evt-7",
+    "title": "Val d'Isère Opening Weekend",
+    "category": "Sports",
+    "region": "Alps",
+    "city": "Val d'Isère",
+    "venue": "Front de neige",
+    "location": "Val d'Isère, France",
+    "date": "2026-12-04",
+    "end": "2026-12-06",
+    "time": "09:00",
+    "price": "Free",
+    "featured": false,
+    "kind": "snow",
+    "description": "Kick off the winter with the season-opening weekend on the slopes: first tracks, ride demos and live music at the base of the mountain.",
+    "highlights": [
+      "First-lift-of-the-season celebration",
+      "Board and ski demo village",
+      "Evening sets at the base area"
+    ],
+    "tags": [
+      "Snowboarding",
+      "Alpine",
+      "Opening"
+    ],
+    "lat": 45.448,
+    "lng": 6.98
+  },
+  {
+    "id": "evt-8",
+    "title": "Red Bull Rail Jam",
+    "category": "Sports",
+    "region": "Alps",
+    "city": "Les Deux Alpes",
+    "venue": "Snowpark",
+    "location": "Les Deux Alpes, France",
+    "date": "2026-12-05",
+    "end": "2026-12-05",
+    "time": "14:00",
+    "endTime": "21:00",
+    "price": "Free",
+    "featured": false,
+    "kind": "snow",
+    "description": "A one-day night-session rail jam where snowboarders and freeskiers throw their best tricks under floodlights.",
+    "highlights": [
+      "Open-format rail jam",
+      "Night session under lights",
+      "Free spectator access"
+    ],
+    "tags": [
+      "Snowboarding",
+      "Freestyle",
+      "Red Bull"
+    ],
+    "lat": 45.011,
+    "lng": 6.123
+  },
+  {
+    "id": "evt-9",
+    "title": "Alpine Après-Ski DJ Sessions",
+    "category": "DJ & Music",
+    "region": "Alps",
+    "city": "Avoriaz",
+    "venue": "Place des Dromonts",
+    "location": "Avoriaz, France",
+    "date": "2026-12-18",
+    "end": "2026-12-20",
+    "time": "16:00",
+    "price": "From €25",
+    "featured": false,
+    "kind": "dj",
+    "description": "Three afternoons of house and disco on the snow, with sets starting as the lifts close and running into the evening.",
+    "highlights": [
+      "Three days of sets",
+      "Outdoor stage on the snow",
+      "Warm drinks and local food stalls"
+    ],
+    "tags": [
+      "DJ",
+      "Nightlife",
+      "Snow"
+    ],
+    "lat": 46.193,
+    "lng": 6.771
+  },
+  {
+    "id": "evt-10",
+    "title": "Chamonix Freeride Open",
+    "category": "Sports",
+    "region": "Alps",
+    "city": "Chamonix-Mont-Blanc",
+    "venue": "Brévent–Flégère",
+    "location": "Chamonix-Mont-Blanc, France",
+    "date": "2027-01-23",
+    "end": "2027-01-25",
+    "time": "08:30",
+    "price": "From €45",
+    "featured": false,
+    "kind": "snow",
+    "description": "Three days of freeride snowboarding and skiing on steep, technical terrain. Watch riders pick their lines from the viewing area.",
+    "highlights": [
+      "Judged freeride runs",
+      "Guided spectator hikes",
+      "Rider Q&A and awards"
+    ],
+    "tags": [
+      "Snowboarding",
+      "Freeride",
+      "Alpine"
+    ],
+    "lat": 45.9237,
+    "lng": 6.8694
+  },
+  {
+    "id": "evt-11",
+    "title": "Morzine Snowboard Week",
+    "category": "Travel",
+    "region": "Alps",
+    "city": "Morzine",
+    "venue": "Portes du Soleil",
+    "location": "Morzine, France",
+    "date": "2027-01-09",
+    "end": "2027-01-16",
+    "time": "15:00",
+    "dur": "7 nights",
+    "price": "From €890",
+    "featured": false,
+    "kind": "snow",
+    "description": "A guided week for snowboarders of all levels: lessons in the morning, free riding in the afternoon and a shared chalet at night.",
+    "highlights": [
+      "7 nights in a shared chalet",
+      "6-day lift pass included",
+      "Coaching for beginner to advanced"
+    ],
+    "tags": [
+      "Snowboarding",
+      "Package",
+      "Alpine"
+    ],
+    "lat": 46.179,
+    "lng": 6.709
+  },
+  {
+    "id": "evt-12",
+    "title": "Red Bull Big Air Tignes",
+    "category": "Sports",
+    "region": "Alps",
+    "city": "Tignes",
+    "venue": "Le Lac",
+    "location": "Tignes, France",
+    "date": "2027-02-06",
+    "end": "2027-02-06",
+    "time": "19:00",
+    "endTime": "23:00",
+    "price": "From €20",
+    "featured": false,
+    "kind": "snow",
+    "description": "A huge night-time big air jump built above the lake, with top riders going for their biggest tricks in front of the crowd.",
+    "highlights": [
+      "Night big air final",
+      "Live DJ between runs",
+      "Grandstand viewing area"
+    ],
+    "tags": [
+      "Snowboarding",
+      "Big Air",
+      "Red Bull"
+    ],
+    "lat": 45.469,
+    "lng": 6.907
+  },
+  {
+    "id": "evt-13",
+    "title": "Ice Climbing Weekend",
+    "category": "Adventure",
+    "region": "Alps",
+    "city": "Chamonix-Mont-Blanc",
+    "venue": "Glacier des Bossons area",
+    "location": "Chamonix-Mont-Blanc, France",
+    "date": "2027-02-20",
+    "end": "2027-02-21",
+    "time": "08:00",
+    "price": "From €160",
+    "featured": false,
+    "kind": "adventure",
+    "description": "Two guided days learning ice-climbing basics on frozen waterfalls and glacier terrain, with all technical gear provided.",
+    "highlights": [
+      "Small guided groups",
+      "Ice tools and crampons included",
+      "Suitable for first-timers"
+    ],
+    "tags": [
+      "Climbing",
+      "Winter",
+      "Mountains"
+    ],
+    "lat": 45.9237,
+    "lng": 6.8694
+  },
+  {
+    "id": "evt-14",
+    "title": "Nuit Blanche Paris",
+    "category": "Culture",
+    "region": "Paris",
+    "city": "Paris",
+    "venue": "Across the city",
+    "location": "Paris, France",
+    "date": "2026-10-03",
+    "end": "2026-10-04",
+    "time": "19:00",
+    "endTime": "07:00",
+    "dur": "1 night",
+    "price": "Free",
+    "featured": false,
+    "kind": "culture",
+    "description": "An all-night art walk: installations, performances and light works fill streets, squares and courtyards across the city.",
+    "highlights": [
+      "Free all-night art trail",
+      "Installations and live performance",
+      "Late-night metro and bus service"
+    ],
+    "tags": [
+      "Art",
+      "City",
+      "Night"
+    ],
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "evt-15",
+    "title": "Nuit Électro Lyon",
+    "category": "DJ & Music",
+    "region": "Lyon",
+    "city": "Lyon",
+    "venue": "Confluence warehouse",
+    "location": "Lyon, France",
+    "date": "2026-10-24",
+    "end": "2026-10-25",
+    "time": "22:00",
+    "endTime": "06:00",
+    "dur": "1 night",
+    "price": "From €35",
+    "featured": false,
+    "kind": "dj",
+    "description": "A full night of techno and house across two rooms, with local residents and guest DJs playing until sunrise.",
+    "highlights": [
+      "Two rooms, one night",
+      "Resident and guest DJs",
+      "Late-night food trucks"
+    ],
+    "tags": [
+      "DJ",
+      "Electronic",
+      "Nightlife"
+    ],
+    "lat": 45.764,
+    "lng": 4.8357
+  },
+  {
+    "id": "evt-16",
+    "title": "Paris Warehouse Festival",
+    "category": "DJ & Music",
+    "region": "Paris",
+    "city": "Paris",
+    "venue": "Pantin",
+    "location": "Paris, France",
+    "date": "2026-11-14",
+    "end": "2026-11-15",
+    "time": "23:00",
+    "endTime": "06:00",
+    "dur": "1 night",
+    "price": "From €40",
+    "featured": false,
+    "kind": "dj",
+    "description": "An industrial-space festival with three stages of electronic music, projection visuals and a late finish.",
+    "highlights": [
+      "Three stages",
+      "Visual and light show",
+      "Coat check and late transport tips"
+    ],
+    "tags": [
+      "DJ",
+      "Electronic",
+      "Nightlife"
+    ],
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "evt-17",
+    "title": "Fête des Lumières",
+    "category": "Culture",
+    "region": "Lyon",
+    "city": "Lyon",
+    "venue": "Old Town & Presqu'île",
+    "location": "Lyon, France",
+    "date": "2026-12-08",
+    "end": "2026-12-11",
+    "time": "18:00",
+    "price": "Free",
+    "featured": false,
+    "kind": "culture",
+    "description": "Four evenings of light installations that transform buildings and squares across the city. Wrap up warm and walk the routes.",
+    "highlights": [
+      "Free open-air light routes",
+      "Evenings only, from 18:00",
+      "Family-friendly"
+    ],
+    "tags": [
+      "Light",
+      "City",
+      "Winter"
+    ],
+    "lat": 45.764,
+    "lng": 4.8357
+  },
+  {
+    "id": "evt-18",
+    "title": "Carnaval de Nice",
+    "category": "Culture",
+    "region": "Riviera",
+    "city": "Nice",
+    "venue": "Place Masséna",
+    "location": "Nice, France",
+    "date": "2027-02-13",
+    "end": "2027-02-28",
+    "time": "14:00",
+    "price": "From €15",
+    "featured": false,
+    "kind": "culture",
+    "description": "Two weeks of parades, floats and flower battles along the seafront in one of the region's biggest winter celebrations.",
+    "highlights": [
+      "Daytime and night parades",
+      "Flower battles",
+      "Grandstand tickets available"
+    ],
+    "tags": [
+      "Parade",
+      "Festival",
+      "Coast"
+    ],
+    "lat": 43.7102,
+    "lng": 7.262
+  },
+  {
+    "id": "evt-19",
+    "title": "Paris City Run Weekend",
+    "category": "Sports",
+    "region": "Paris",
+    "city": "Paris",
+    "venue": "Champs-Élysées start",
+    "location": "Paris, France",
+    "date": "2027-04-09",
+    "end": "2027-04-11",
+    "time": "09:00",
+    "price": "From €60",
+    "featured": false,
+    "kind": "city",
+    "description": "A weekend of running through the capital: a fun run, a half distance and a full marathon course past major landmarks.",
+    "highlights": [
+      "Fun run, half and full distance",
+      "Expo and bib pick-up",
+      "Finish-line party"
+    ],
+    "tags": [
+      "Running",
+      "City",
+      "Fitness"
+    ],
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "evt-20",
+    "title": "Riviera Sunset Sessions",
+    "category": "DJ & Music",
+    "region": "Riviera",
+    "city": "Cannes",
+    "venue": "Beachfront stage",
+    "location": "Cannes, France",
+    "date": "2027-05-28",
+    "end": "2027-05-30",
+    "time": "17:00",
+    "price": "From €55",
+    "featured": false,
+    "kind": "sea",
+    "description": "Three evenings of house and disco on the beach, timed to start around golden hour and run into the night.",
+    "highlights": [
+      "Beachfront stage",
+      "Golden-hour sets",
+      "Food and drink village"
+    ],
+    "tags": [
+      "DJ",
+      "Beach",
+      "Nightlife"
+    ],
+    "lat": 43.5528,
+    "lng": 7.0174
+  },
+  {
+    "id": "evt-21",
+    "title": "Verdon Canyoning Weekend",
+    "category": "Adventure",
+    "region": "Provence",
+    "city": "Aiguines",
+    "venue": "Gorges du Verdon",
+    "location": "Aiguines, France",
+    "date": "2027-06-12",
+    "end": "2027-06-13",
+    "time": "09:00",
+    "price": "From €140",
+    "featured": false,
+    "kind": "adventure",
+    "description": "Two days of guided canyoning through turquoise gorges: abseils, natural slides and swim-throughs with full safety gear.",
+    "highlights": [
+      "Guided descents with safety gear",
+      "Natural slides and jumps",
+      "Lunch by the river"
+    ],
+    "tags": [
+      "Canyoning",
+      "Summer",
+      "Outdoor"
+    ],
+    "lat": 43.7686,
+    "lng": 6.2286
+  },
+  {
+    "id": "evt-22",
+    "title": "Provence Lavender Trail",
+    "category": "Travel",
+    "region": "Provence",
+    "city": "Valensole",
+    "venue": "Plateau de Valensole",
+    "location": "Valensole, France",
+    "date": "2027-07-03",
+    "end": "2027-07-10",
+    "time": "10:00",
+    "dur": "7 nights",
+    "price": "From €1,150",
+    "featured": false,
+    "kind": "travel",
+    "description": "A week of guided walks and cycling through lavender fields, with market visits and long lunches in small villages.",
+    "highlights": [
+      "7 nights in village stays",
+      "Guided walks and e-bike days",
+      "Local food and market tours"
+    ],
+    "tags": [
+      "Scenery",
+      "Food",
+      "Cycling"
+    ],
+    "lat": 43.84,
+    "lng": 5.983
+  }
+]

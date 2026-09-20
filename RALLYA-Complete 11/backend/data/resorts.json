@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tignes",
+    "name": "Tignes",
+    "altitude": 2100,
+    "open": "2026-11-21",
+    "close": "2027-05-02",
+    "tags": [
+      "Glacier",
+      "Freeride",
+      "Snowpark"
+    ],
+    "lat": 45.469,
+    "lng": 6.907,
+    "wiki": "Tignes"
+  },
+  {
+    "id": "val-disere",
+    "name": "Val d'Isère",
+    "altitude": 1850,
+    "open": "2026-11-28",
+    "close": "2027-05-02",
+    "tags": [
+      "Freeride",
+      "Off-piste",
+      "Après"
+    ],
+    "lat": 45.448,
+    "lng": 6.98,
+    "wiki": "Val d'Isère"
+  },
+  {
+    "id": "chamonix",
+    "name": "Chamonix",
+    "altitude": 1035,
+    "open": "2026-12-05",
+    "close": "2027-04-18",
+    "tags": [
+      "Freeride",
+      "Steep",
+      "Mont Blanc"
+    ],
+    "lat": 45.9237,
+    "lng": 6.8694,
+    "wiki": "Chamonix"
+  },
+  {
+    "id": "les-deux-alpes",
+    "name": "Les Deux Alpes",
+    "altitude": 1650,
+    "open": "2026-12-12",
+    "close": "2027-04-24",
+    "tags": [
+      "Snowpark",
+      "Glacier",
+      "Freestyle"
+    ],
+    "lat": 45.011,
+    "lng": 6.123,
+    "wiki": "Les Deux Alpes"
+  },
+  {
+    "id": "avoriaz",
+    "name": "Avoriaz",
+    "altitude": 1800,
+    "open": "2026-12-12",
+    "close": "2027-04-18",
+    "tags": [
+      "Snowpark",
+      "Family",
+      "Ski-in/out"
+    ],
+    "lat": 46.193,
+    "lng": 6.771,
+    "wiki": "Avoriaz"
+  },
+  {
+    "id": "morzine",
+    "name": "Morzine",
+    "altitude": 1000,
+    "open": "2026-12-12",
+    "close": "2027-04-18",
+    "tags": [
+      "Tree runs",
+      "Portes du Soleil",
+      "Village"
+    ],
+    "lat": 46.179,
+    "lng": 6.709,
+    "wiki": "Morzine"
+  }
+]
